@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+a.navbar-brand > img
+{
+    height: 4rem;
+}
+/* img.img-thumbnail{
+    width: 8rem;
+    height: 8rem;
+}
+.selected{
+    border: 1px solid lightgray;
+}
+div.row{
+    margin: 1rem 0;
+    padding: 0.8rem;
+}
+.content{
+    width:40rem;
+} */
